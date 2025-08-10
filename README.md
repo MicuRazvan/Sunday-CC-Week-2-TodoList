@@ -10,7 +10,7 @@ I lost a bet with a friend and he challenged me that for the next 52 weeks, duri
   (Surely this won’t backfire at some point by underestimating a project, right? 😅)
 
   
-####For this week we decided on **Todo List app**, being allowed to work on it only sunday.  
+#### For this week we decided on **Todo List app**, being allowed to work on it only sunday.  
 ---
 
 ## About the project
